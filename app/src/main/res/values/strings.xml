@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="note">Note</string>
+    <string name="updated_at">Updated At</string>
+    <string name="button">Button</string>
+    <string name="enter_your_note_details">Enter your Note Details</string>
+    <string name="enter_note_title">Enter Note Title</string>
+</resources>
